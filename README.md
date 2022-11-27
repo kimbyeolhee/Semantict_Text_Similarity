@@ -6,6 +6,8 @@ STS(Semantic Text Similarity)는 복수의 문장에 대한 유사도를 선형�
 
 본 프로젝트에서는 두 개의 문장을 입력하고, 이러한 문장쌍이 얼마나 의미적으로 서로 유사한지(0~5점)를 측정하는 AI모델을 구축합니다.
 
+#### [Wrap up report](https://occipital-close-b54.notion.site/STS-Wrap-up-f1722ca6a508412383becaed322d071f)
+
 
 <br/>
 
